@@ -1,3 +1,5 @@
+#pip install pynput
+#pip install keyboard
 from pynput import mouse
 import keyboard
 import random
